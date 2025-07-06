@@ -1,9 +1,3 @@
-Okay, I will help you create a README.md file for your current project, "Galería de Artículos con Efecto Overlay," following the structure and tone of your previous README.md examples. This project is excellent for showcasing image effects and overlays.
-
-Here's the README.md content:
-
-Markdown
-
 # Galería de Artículos con Efecto Overlay - Portafolio HTML y CSS
 
 ## Descripción
